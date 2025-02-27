@@ -1,4 +1,4 @@
-= Spring Boot Camel AMQP Producer
+= Spring Boot Camel AMQP Consumer 
 
 . Build the project
 +
